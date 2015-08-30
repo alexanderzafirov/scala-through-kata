@@ -1,6 +1,6 @@
-class FizzBuzzTest extends UnitSpec {
+class FizzBuzzSpec extends UnitSpec {
 
-  behavior of "FizzBuzz$Test"
+  behavior of "FizzBuzzSpec"
 
   it should "return fizz if the number is dividable by 3" in {
     FizzBuzz.getResult(3) should be ("fizz")
