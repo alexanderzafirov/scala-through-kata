@@ -1,0 +1,6 @@
+### Scala template
+*.class
+
+.history
+target/
+src_managed/
